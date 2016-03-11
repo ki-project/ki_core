@@ -1,2 +1,2 @@
-# ki_main
-Main Part of the AI
+# ki_core
+Core programs of the AI
